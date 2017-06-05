@@ -1,5 +1,5 @@
 # Netduino Firmware Releases
-A repository of Netduino Firmware Releases.
+A repository of Netduino Firmware binaries. These are built from the [Netduino SDK](https://github.com/WildernessLabs/Netduino_SDK) sources. They can be uploaded to Netduinos either via MFDeploy (on windows), or Mac Deploy Tool (coming _very_ soon, for Mac).
 
 ## Current Pre-Release
 
