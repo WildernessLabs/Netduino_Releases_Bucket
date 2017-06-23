@@ -5,8 +5,9 @@ A repository of Netduino Firmware binaries. These are built from the [Netduino S
 
 **[4.3.2.4pre2](Pre-Release/4.3.2.4pre2)** - This is a pack of v4.3.2.3, but built on a newer compiler. It should be equivalent to the official 4.3.2.3 release, except that it _may_ contain a fix for [Issue #1](https://github.com/WildernessLabs/Netduino_SDK/issues/1)
 
-Note that this is N3WiFi only, to fix the `NetworkInterface` issue we found in 4.3.2.4pre
+This releases fixes the `NetworkInterface` issue found in 4.3.2.4pre.
 
+### Older Pre-releases
 
 **[4.3.2.4pre](Pre-Release/4.3.2.4pre)** - This is a pack of v4.3.2.3, but built on a newer compiler. It should be equivalent to the official 4.3.2.3 release, except that it _may_ contain a fix for [Issue #1](https://github.com/WildernessLabs/Netduino_SDK/issues/1)
 
