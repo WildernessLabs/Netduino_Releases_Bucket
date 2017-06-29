@@ -13,6 +13,7 @@ Updates firmware on Netduinos on Mac, yay!
  * UX is not finished.
  * Does not detect device connect/disconnect.
  * Unprogrammed N3WiFi in DFU mode doesn't allow window to be viewable/launch.
+ * Closing Window doesn't quit
 
 ## Netduino Firmware Releases
 A repository of Netduino Firmware binaries. These are built from the [Netduino SDK](https://github.com/WildernessLabs/Netduino_SDK) sources. They can be uploaded to Netduinos either via MFDeploy (on windows), or Mac Deploy Tool (coming _very_ soon, for Mac).
