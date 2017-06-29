@@ -4,6 +4,11 @@ Updates firmware on Netduinos on Mac, yay!
 
 ![](MacDeploy/MacDeployTool.png)
 
+### Known Issues
+
+ * UX is not finished.
+ * Does not detect device connect/disconnect.
+
 ## Netduino Firmware Releases
 A repository of Netduino Firmware binaries. These are built from the [Netduino SDK](https://github.com/WildernessLabs/Netduino_SDK) sources. They can be uploaded to Netduinos either via MFDeploy (on windows), or Mac Deploy Tool (coming _very_ soon, for Mac).
 
@@ -33,5 +38,6 @@ This releases fixes the `NetworkInterface` issue found in 4.3.2.4pre.
 
  1. Open the latest MacDeploy tool.
  2. Click the `Choose` button, and select either the `.hex` or `.s19` `ER_CONFIG` and `ER_FLASH` files:
-
- 
+ [TODO: image]
+ 3. Click `Deploy` and it should deploy the firmware:
+ ![](MacDeploy/MacDeploy_ManuallyUpdatingFirmware.png)
