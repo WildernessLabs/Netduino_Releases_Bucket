@@ -19,4 +19,19 @@ This releases fixes the `NetworkInterface` issue found in 4.3.2.4pre.
 
 ## Uploading Firmware to Device
 
-[need MFDeploy images]
+
+### On Mac using the MacDeploy Tool
+
+#### Automatic Installation of Latest Official Firmware
+
+ 1. Open the latest MacDeploy tool.
+ 2. Click the `Install Firmware` button, firmware should install:
+ ![](MacDeploy/MacDeploy_AutomaticFirmwareUpdate.png)
+ 
+
+#### Manual Installation of Firmware from .hex or .s19 files
+
+ 1. Open the latest MacDeploy tool.
+ 2. Click the `Choose` button, and select either the `.hex` or `.s19` `ER_CONFIG` and `ER_FLASH` files:
+
+ 
