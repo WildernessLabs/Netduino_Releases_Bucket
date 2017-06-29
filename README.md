@@ -4,6 +4,10 @@ Updates firmware on Netduinos on Mac, yay!
 
 ![](MacDeploy/MacDeployTool.png)
 
+## Current Pre-Release
+
+ *  **[Pre 0.1.0](MacDeploy/Pre-Release/pre-0.1.0)**
+
 ### Known Issues
 
  * UX is not finished.
