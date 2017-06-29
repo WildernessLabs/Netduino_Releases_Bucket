@@ -6,7 +6,7 @@ Updates firmware on Netduinos on Mac, yay!
 
 ## Current Pre-Release
 
- *  **[Pre 0.1.0](MacDeploy/Pre-Release/pre-0.1.0)**
+ *  **[Pre 0.1.0](MacDeploy/Pre-Release/pre-0.1.0/NetduinoDeploy.app.zip)**
 
 ### Known Issues
 
