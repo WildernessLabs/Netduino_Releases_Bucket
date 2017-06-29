@@ -19,6 +19,10 @@ A repository of Netduino Firmware binaries. These are built from the [Netduino S
 
 This releases fixes the `NetworkInterface` issue found in 4.3.2.4pre.
 
+#### Known Issues:
+
+ * For some reason, these are all reading as Netduino 2 firmware. :|
+
 #### Older Pre-releases
 
 **[4.3.2.4pre](Firmware/Pre-Release/4.3.2.4pre)** - This is a pack of v4.3.2.3, but built on a newer compiler. It should be equivalent to the official 4.3.2.3 release, except that it _may_ contain a fix for [Issue #1](https://github.com/WildernessLabs/Netduino_SDK/issues/1)
