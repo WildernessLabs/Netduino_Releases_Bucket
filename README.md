@@ -38,6 +38,6 @@ This releases fixes the `NetworkInterface` issue found in 4.3.2.4pre.
 
  1. Open the latest MacDeploy tool.
  2. Click the `Choose` button, and select either the `.hex` or `.s19` `ER_CONFIG` and `ER_FLASH` files:
- [TODO: image]
+ ![](MacDeploy/MacDeploy_SelectedFirmwareFiles.png)
  3. Click `Deploy` and it should deploy the firmware:
  ![](MacDeploy/MacDeploy_ManuallyUpdatingFirmware.png)
